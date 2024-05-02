@@ -18,10 +18,12 @@ The implementation involves the following steps:
 
 ## Example
 ### Input
-[https://www.britannica.com/biography/Virat-Kohli]
+![pic1](https://github.com/001sarvesh/para-Summarizer/assets/97980500/a7ae0444-49cc-44a0-aa26-1a63d6049fb2)
+
+
 
 ### Output
-[![pic3](https://github.com/001sarvesh/para-Summarizer/assets/97980500/5f34ec47-c799-411f-9262-08a11dd984fe)]
+![pic3](https://github.com/001sarvesh/para-Summarizer/assets/97980500/5f34ec47-c799-411f-9262-08a11dd984fe)
 
 
 
