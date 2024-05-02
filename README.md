@@ -1,4 +1,4 @@
-# para-Summarizer
+# Para-Summarizer
 # Text Summarization using OpenAI's ChatGPT API
 
 ## Introduction
