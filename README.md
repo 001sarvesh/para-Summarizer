@@ -1,5 +1,5 @@
-# Para-Summarizer
-# Text Summarization using OpenAI's ChatGPT API
+# Article-Summarizer
+# Article Summarization using OpenAI's ChatGPT API
 
 ## Introduction
 This project utilizes OpenAI's ChatGPT API for text summarization. Given a link to a paragraph or text, the API generates a summary of the content. 
